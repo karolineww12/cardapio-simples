@@ -15,14 +15,18 @@
   }
   
   /* FONTS */
-  h1, 
-  h2, 
-  h3, 
-  .price {
-    font-family: 'Roboto serif', serif;
-    text-transform: uppercase;
-    color: #2D2C2A;
-  }
+h1, 
+h2,  
+.price {
+  font-family: 'Roboto serif', serif;
+  text-transform: uppercase;
+  color: #2D2C2A;
+}
+
+h3 {
+  font-family: 'Roboto serif', serif;
+  color: #2D2C2A;
+}
   
   /* HEADER */
   
